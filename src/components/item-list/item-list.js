@@ -6,7 +6,7 @@ export default class ItemList extends Component {
 
   render() {
     return (
-      <ul className="item-list list-group">
+      <ul className="item-list list-group mt-3">
         <li className="list-group-item">
           Luke Skywalker
         </li>

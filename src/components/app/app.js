@@ -13,11 +13,11 @@ const App = () => {
       <Header />
       <RandomPlanet />
 
-      <div className="row mb2 pt-3">
+      <div className="row mb2">
         <div className="col-md-6">
           <ItemList />
         </div>
-        <div className="col-md-6 card">
+        <div className="col-md-6 card mt-3">
           <PersonDetails />
         </div>
       </div>
